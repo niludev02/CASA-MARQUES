@@ -1,6 +1,7 @@
 # Regras de Negócio
 
 RN001 - Um cliente deve possuir ID, nome, endereço e telefone para ser cadastrado.
+/
 RN002 - Um cliente pode realizar vários pedidos.
 RN003 - Um cliente com mais de 10 compras poderá receber um desconto de 10%.
 RN004 - Produtos inativos não devem aparecer no cardápio.
